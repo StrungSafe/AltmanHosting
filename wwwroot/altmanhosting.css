@@ -1,8 +1,18 @@
-h1 {
-    text-align: center;
+.main {
+    background-image: none;
+    background-color: white;
+    display:inline-block;
+    padding: 1rem;
+    margin-top: 3rem;
 }
 
-nav a {
+nav {
+    background-image: none;
+    background-color: white;
+    display:inline-block;
+}
+
+nav a:not(:last-child) {
     padding-right: 1rem;
 }
 
@@ -23,27 +33,26 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #cccccc;
     color: black;
     text-align: center;
 }
 
 a {
-    color: green;
+    color: black;
 }
 
 a:link {
-    color: green;
+    color: black;
 }
 
 a:visited {
-    color: green;
+    color: black;
 }
 
 a:hover {
-    color: greenyellow;
+    color: black;
 }
 
 a:active {
-    color: green;
+    color: black;
 }
