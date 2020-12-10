@@ -17,6 +17,15 @@ Create a set of connected, web pages that are designed to convince an organizati
 - [ ] Use relative links
 - [ ] Provide sources to images
 
+### Page Names
+
+1. Home
+2. About
+3. Learn
+4. Transition
+5. Estimates
+6. Citations
+
 ## Sources
 
 1. https://www.ibm.com/cloud/learn/what-is-cloud-hosting
@@ -24,5 +33,4 @@ Create a set of connected, web pages that are designed to convince an organizati
 
 ## Images
 
-1. https://pixabay.com/illustrations/cloud-computing-network-internet-2001090/
-2. https://pixabay.com/illustrations/cloud-computer-hosting-3406627/
+1. https://pixabay.com/photos/sky-clouds-atmosphere-air-oxygen-1441936/
