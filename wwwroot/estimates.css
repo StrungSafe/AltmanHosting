@@ -1,0 +1,39 @@
+.estimate-text {
+    float: left;
+    width: 33%;
+}
+
+.estimate-text p {
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+
+.estimate-table {
+    float: left;
+    width: 66%;
+}
+
+.estimate-table table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.estimate-table table th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #2D4E84;
+}
+
+.estimate-table table th {
+}
+
+.estimate-table table td {
+}
+
+.estimate-table tr:nth-child(even) {
+    background-color: #8ea4c2;
+}
+
+.estimate-table tr:hover:not(:first-child) {
+    background-color: #2D4E84;
+}
